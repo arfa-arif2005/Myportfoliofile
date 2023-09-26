@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    cursor: pointer;
+
+}
+.nav-link:hover{
+    color: white;
+    background-color: black;
+}
+#link{
+    text-decoration:none;
+
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: black;
+    cursor: pointer;
+}
+#image{
+    border-radius:110px;
+}
+#image:hover{
+    width: 92%;
+    height: 310px;
+    opacity: 0.9;
+}
+#card1:hover{
+    opacity: 0.8;
+    
+}
+#card2:hover{
+    opacity: 0.8;
+    
+}
+#card3:hover{
+    opacity: 0.8;
+    
+}
